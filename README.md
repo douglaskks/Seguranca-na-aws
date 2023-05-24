@@ -9,3 +9,6 @@
 - Configurar Authotizers para garantir a autenticação de endpoints da API
 - Registrar e realizar login de usuários
 - Interagir com a aplicação criada
+
+# 1° Etapa ( Criando uma API com Gateway e Criando uma tabela<br>
+  no banco de dados com DynamoDB )
