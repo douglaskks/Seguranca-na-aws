@@ -22,3 +22,6 @@ junto com os recursos de gerenciamento da API. ( Compilar )
 por meio de endpoints HTTPS ( New API )
 - Endpoint Type ( Regional )
 - Criar API
+- Em "Ações" você irá mudar para "Create Resources" ou "Criar Recursos"
+- Atribua um nome a esse recurso
+- Create Resource ou Criar Recurso
