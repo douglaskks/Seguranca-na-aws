@@ -11,3 +11,14 @@
 - Interagir com a aplicação criada
 
 # 1° Etapa ( Criando uma API com Gateway e Criando uma tabela<br> no banco de dados com DynamoDB )
+
+Inicialmente é necessário entrar no serviço do API Gateway da AWS e seguir os passos:
+
+- Criar API
+- API REST - Desenvolva uma API REST na qual você obtenha controle total sobre a solicitação e a resposta<br>
+junto com os recursos de gerenciamento da API. ( Compilar )
+- Selecione se você gostaria de criar uma API REST ou uma API WebSocket ( Selecione REST )
+- No Amazon API Gateway, uma API REST refere-se a uma coleção de recursos e métodos que podem ser invocados<br>
+por meio de endpoints HTTPS ( New API )
+- Endpoint Type ( Regional )
+- Criar API
